@@ -1,4 +1,4 @@
-# Twitter-Sentiment-Analysis 
+# LIVE-TWEETS-ANALYZER
 
 This project analyse the sentiments of the tweets done by specific User.<br>
 
