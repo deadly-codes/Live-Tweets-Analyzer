@@ -18,7 +18,7 @@ Python version (Recommended) - 2.x or 3.x
 
 ## Dependencies - pandas , numpy, virtual environment,etc
 
-SOME CAN INSTALL PYTHON PACKAGES BY :
+CAN INSTALL SOME PYTHON PACKAGES BY :
 
 - `pip install pandas`
 - `pip install numpy`
