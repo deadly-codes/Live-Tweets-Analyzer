@@ -29,3 +29,4 @@ You have to use your twitter account API , in the "main.py" file. Enter your API
 
 
 ## IDE - VS code
+(RUN THE PROJECT ON VIRTUAL ENVIRONMENT)
