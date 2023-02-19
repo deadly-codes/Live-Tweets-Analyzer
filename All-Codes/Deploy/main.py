@@ -13,10 +13,10 @@ def sentiment():
     userid = request.form.get('fname')
 
     #======================Insert Twitter API Here==========================
-    consumerKey = "3ylaRVHNb2yCQOJonKFQxT3WF"
-    consumerSecret = "8Xbh7D5NTqLiOiiNDhr6ZFWDr3Qgd3j2Tl4hIwEHDntaPud4s0"
-    accessToken = "1415668424525553666-1FxPA7TUANfQFP2lx8fb96I7r2vi4U"
-    accessTokenSecret = "eRUcYqdU7Dl0NNTZALSobSKSOaccekrGyINrZSfnJnYxr"
+    consumerKey = "ENTER YOUR CONSUMER KEY"
+    consumerSecret = "ENTER YOUR CONSUMER SECRET KEY"
+    accessToken = "ENTER YOUR ACCESS TOKEN KEY"
+    accessTokenSecret = "ENTER YOUR ACCESS TOKEN SECRET KEY"
     #======================Insert Twitter API End===========================
     
     authenticate = tweepy.OAuthHandler(consumerKey, consumerSecret)
