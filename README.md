@@ -30,3 +30,6 @@ You have to use your twitter account API , in the "main.py" file. Enter your API
 
 ## IDE - VS code
 (RUN THE PROJECT ON VIRTUAL ENVIRONMENT)
+
+## WORKING PROJECT LINK :
+Video of working project is here [Click ME !](https://drive.google.com/file/d/1VFPMoAje5BPQNR2c73Fr3qK89xv2mp-7/view).
